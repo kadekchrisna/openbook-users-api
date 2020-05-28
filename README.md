@@ -1,1 +1,1 @@
-# openbook-users-api
+# OpenBook Users Service
