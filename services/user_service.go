@@ -3,9 +3,9 @@ package services
 import (
 	"fmt"
 
-	"github.com/kadekchrisna/openbook/domains/users"
-	"github.com/kadekchrisna/openbook/logger"
-	"github.com/kadekchrisna/openbook/utils/errors"
+	"github.com/kadekchrisna/openbook-users-api/domains/users"
+	"github.com/kadekchrisna/openbook-users-api/logger"
+	"github.com/kadekchrisna/openbook-users-api/utils/errors"
 )
 
 type (

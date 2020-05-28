@@ -3,7 +3,7 @@ package users
 import (
 	"strings"
 
-	"github.com/kadekchrisna/openbook/utils/errors"
+	"github.com/kadekchrisna/openbook-users-api/utils/errors"
 )
 
 // User template

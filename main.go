@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/kadekchrisna/openbook/app"
+	"github.com/kadekchrisna/openbook-users-api/app"
 )
 
 func main() {

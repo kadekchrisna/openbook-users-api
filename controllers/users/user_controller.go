@@ -7,9 +7,9 @@ import (
 
 	"github.com/gin-gonic/gin"
 	"github.com/kadekchrisna/openbook-oauth-go/oauth"
-	"github.com/kadekchrisna/openbook/domains/users"
-	"github.com/kadekchrisna/openbook/services"
-	"github.com/kadekchrisna/openbook/utils/errors"
+	"github.com/kadekchrisna/openbook-users-api/domains/users"
+	"github.com/kadekchrisna/openbook-users-api/services"
+	"github.com/kadekchrisna/openbook-users-api/utils/errors"
 )
 
 // GetUserId parsing id on param URL returning int64 or error

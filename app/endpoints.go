@@ -1,8 +1,8 @@
 package app
 
 import (
-	"github.com/kadekchrisna/openbook/controllers/ping"
-	"github.com/kadekchrisna/openbook/controllers/users"
+	"github.com/kadekchrisna/openbook-users-api/controllers/ping"
+	"github.com/kadekchrisna/openbook-users-api/controllers/users"
 )
 
 func endpoints() {

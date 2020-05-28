@@ -3,11 +3,11 @@ package users
 import (
 	"fmt"
 
-	clientdbs "github.com/kadekchrisna/openbook/datasources/mysql/users_db"
-	cryptoutils "github.com/kadekchrisna/openbook/utils/crypto"
-	dateutils "github.com/kadekchrisna/openbook/utils/date"
-	"github.com/kadekchrisna/openbook/utils/errors"
-	mysqlutils "github.com/kadekchrisna/openbook/utils/mysql_utils"
+	clientdbs "github.com/kadekchrisna/openbook-users-api/datasources/mysql/users_db"
+	cryptoutils "github.com/kadekchrisna/openbook-users-api/utils/crypto"
+	dateutils "github.com/kadekchrisna/openbook-users-api/utils/date"
+	"github.com/kadekchrisna/openbook-users-api/utils/errors"
+	mysqlutils "github.com/kadekchrisna/openbook-users-api/utils/mysql_utils"
 )
 
 var (

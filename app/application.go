@@ -4,8 +4,8 @@ import (
 	"fmt"
 
 	"github.com/gin-gonic/gin"
-	"github.com/kadekchrisna/openbook/logger"
-	_ "github.com/kadekchrisna/openbook/utils/env"
+	"github.com/kadekchrisna/openbook-users-api/logger"
+	_ "github.com/kadekchrisna/openbook-users-api/utils/env"
 )
 
 var (
